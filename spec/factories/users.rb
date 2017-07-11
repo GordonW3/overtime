@@ -11,7 +11,7 @@ FactoryGirl.define do
   	password_confirmation "123456"
   end
 
-	factory :adumin_user, class: "AdminUser" do
+	factory :admin_user, class: "AdminUser" do
 		first_name "Admin"
 		last_name "User"
 		email {generate :email}
