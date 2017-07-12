@@ -6,4 +6,4 @@ puts "1 user is HERE!"
 	Post.create!(date: Date.today, rationale: "#{post} rationale content", user_id: @user.id)
 end
 
-puts "STUFF HAS BEEN MADE!!!"
+puts "STUFF HAS BEEN MADE!!!30"
