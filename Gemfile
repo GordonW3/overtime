@@ -41,6 +41,6 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'administrate', '~> 0.7.0'
 gem 'bourbon'
 gem 'pundit' , '~>1.1'
-gem 'twilio', '~> 3.1', '>= 3.1.1'
+gem 'twilio-ruby', '~> 4.11', '>= 4.11.1'
 gem 'dotenv-rails' , :groups => [:development, :test]
 
