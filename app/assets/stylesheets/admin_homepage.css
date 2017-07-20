@@ -1,0 +1,25 @@
+
+
+.pending-homepage {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: #edf4f7;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	padding: 20px;
+}
+	
+.hompage-block {
+	background-color: green;
+	color: white;
+	margin: 12px 42px 12px 42px;
+	padding: 15px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+	
+.pending-details{
+	font-weight: bold;
+}

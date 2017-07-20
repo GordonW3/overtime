@@ -1,6 +1,6 @@
 module ApplicationHelper
 	def admin_types
-		['AdimUser']
+		['AdminUser']
 	end
 	
 	def active?(path)
