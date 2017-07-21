@@ -23,3 +23,7 @@
 .pending-details{
 	font-weight: bold;
 }
+
+.hompage-block:hover {
+	background-color: red;
+}
